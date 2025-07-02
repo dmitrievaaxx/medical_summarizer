@@ -18,7 +18,7 @@
 Для выполнения этой задачи используется модель **LED (Longformer Encoder-Decoder)**, дообученная на **11,807 образцах** из датасета [**SUMPUBMED**](https://www.kaggle.com/datasets/chandrasekhardcs/sumpubmed-dataset).  
 Модель обучена выделять разделы `RESULTS` и `CONCLUSIONS` из полной статьи.
 
-- Веса модели: доступен на [HuggingFace](https://huggingface.co/dancessa/led_pubmed_summarization)  
+- Веса модели: доступены на [HuggingFace](https://huggingface.co/dancessa/led_pubmed_summarization)  
 - Подробности обучения и использования — в ноутбуке led_summarization.ipynb
 
 ### 2. Извлечение ключевых терминов (KEY TERMS)
