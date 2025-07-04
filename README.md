@@ -19,7 +19,7 @@
 Модель обучена выделять разделы `RESULTS` и `CONCLUSIONS` из полной статьи.
 
 - Веса модели: доступены на [HuggingFace](https://huggingface.co/dancessa/led_pubmed_summarization)  
-- Подробности обучения и использования — в ноутбуке 'led_summarization.ipynb'
+- Подробности обучения и использования — в ноутбуке `led_summarization.ipynb`
 
 ### 2. Извлечение ключевых терминов (KEY TERMS)
 
